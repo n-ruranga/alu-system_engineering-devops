@@ -1,2 +1,2 @@
-#Author: Gilbert
-#concept: SSH connection.
+#Author: Jabes
+#concept: Connecting ssh
